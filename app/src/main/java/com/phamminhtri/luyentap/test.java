@@ -13,5 +13,6 @@ public class test extends AppCompatActivity {
         Log.d("TAG", "onCreate: ");
         Log.d("TAG", "onCreate: ");
         Log.d("TAG", "onCreate: ");
+        Log.d("TAG", "onCreate: ");
     }
 }
